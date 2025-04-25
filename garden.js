@@ -1,0 +1,1 @@
+// PixiJS: renderização do buquê interativo animado
